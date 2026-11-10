@@ -1,0 +1,4 @@
+*.o
+projet_image
+output_test.pgm
+test_pgm
